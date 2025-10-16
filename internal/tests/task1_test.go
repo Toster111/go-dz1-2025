@@ -1,7 +1,7 @@
 package tests
 
 import (
-	task1 "dz1/internal/task_1"
+	task1 "go-dz1-2025/internal/task_1"
 	"testing"
 
 	"github.com/stretchr/testify/assert"

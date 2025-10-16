@@ -1,7 +1,7 @@
 package tests
 
 import (
-	task2 "dz1/internal/task_2"
+	task2 "go-dz1-2025/internal/task_2"
 	"os"
 	"path/filepath"
 	"testing"
